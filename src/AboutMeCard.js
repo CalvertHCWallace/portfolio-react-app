@@ -7,7 +7,6 @@ const AboutMeCard = () => {
       <h2>About Me</h2>
       <p>
         I'm an aspiring game developer with a strong background in Android, iOS, and web development platforms. 
-        //... Your full description here
       </p>
     </div>
   );
